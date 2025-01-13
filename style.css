@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+h1{
+    color: yellow;
+}
+p{
+    text-decoration: double;
+    border-bottom: 10px solid maroon;
+}
+h3{
+    padding-top: 98px;
+    padding-lefft: 100px;
+    border: 10ppx solid;
+    border-radius: 100peralton ex;
+
+}
+img{
+    border: 5px solid;
+    border-radys: 10px;
+}
